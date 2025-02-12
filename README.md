@@ -1,3 +1,5 @@
+![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQHEy-IlTuaDkQ/profile-displaybackgroundimage-shrink_350_1400/B4DZT6rz.KGcAY-/0/1739372578461?e=1744848000&v=beta&t=JWZ6pOggq-VirKG2ix3Sgc37EObwOqssqdTrt4IDD0Y)
+
 <h1 align="center">Hi, I'm Batuhan CAN</h1>
 <h3 align="center">I am a 3rd year Software Engineering Student</h3>
 
@@ -8,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/canbthn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="canbthn" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/cnbthn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="cnbthn" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@cnbthn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="cnbthn" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
