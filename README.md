@@ -5,7 +5,7 @@
 
 - 📝 I’m currently learning **C++,Java,Python,SQL**
 
-- 📫 How to reach me **BthnCniletisim@gmail.com**
+- 📫 How to reach me **INSTAGRAM - KRONARES -
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
