@@ -1,4 +1,4 @@
-![MasterHead]([https://media.licdn.com/dms/image/v2/D4D16AQFVPDeinYs8NQ/profile-displaybackgroundimage-shrink_350_1400/B4DZT6spq_G4AY-/0/1739372798323?e=1744848000&v=beta&t=JNMoNnsXyMoXqAuLwjU8cDQ2VJgkT-cXFv0ZsIqms-g](https://files.kick.com/images/user/37582740/profile_image/conversion/9cd7685d-5c78-4ef6-9cb6-a3f53e369955-fullsize.webp))
+![MasterHead](https://files.kick.com/images/user/37582740/profile_image/conversion/9cd7685d-5c78-4ef6-9cb6-a3f53e369955-fullsize.webp)
 <h1 align="center">Hi, I'm Batuhan CAN</h1>
 <h3 align="center">I am a 3rd year Software Engineering Student</h3>
 
